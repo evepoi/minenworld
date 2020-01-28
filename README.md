@@ -3,7 +3,7 @@
 
 ## 최근 업로드 기록
 ### 세이브 업로드
-- 민은월드 (1.29).sav 업로드
+- [민은월드 (1.29).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(1.29).sav)
 
 ### 변경기록 추가 내용
 - 공항철도 & 신안산선 서울역 합류지점 위치 재지정
