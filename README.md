@@ -1,5 +1,6 @@
 # OpenTTD 민은월드(JGR 0.32.3) DB 자료실
 ###### 본 자료실은 민은월드의 자료실과 YST.grf 를 공개하는 곳이다.
+[JGR 버전 다운로드](https://github.com/JGRennison/OpenTTD-patches/releases)
 
 ## 1.29. 업로드 내용
 ### 최근 업로드
