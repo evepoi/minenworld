@@ -5,7 +5,7 @@
 ## 1.29. 업로드 내용
 ### 최근 업로드
 #### 세이브 업로드
-- [민은월드 (1.31).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(1.31).sav)
+- [민은월드 (2.1).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.1).sav)
 
 #### 현 진행중
 - 누리로 운행지역 역설치 및 열차배차
