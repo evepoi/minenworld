@@ -6,7 +6,7 @@
 ## 1.29. 업로드 내용
 ### 최근 업로드
 #### 세이브 업로드
-- [민은월드 (2.4).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.4).sav)
+- [민은월드 (2.5).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.5).sav)
 
 #### 현 진행중
 - 현 누리로 배차 55편성으로 노선의 단순화 필요로 노선 정비진행
@@ -18,6 +18,7 @@
 - EMU-250은 강릉에서 출발.
 
 #### 변경내역 업로드 (10개 항목까지만 공개)
+- (2.5) 세이브 공개
 - (2.5) 인천국제공항 출발 누리로 열차배차
 - (2.4) 인천출발 누리로 열차배차
 - (2.4) 장항선 누리로, 무궁화, 새마을, G-train 테스트 열차 폐차
