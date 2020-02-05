@@ -6,7 +6,7 @@
 ## 1.29. 업로드 내용
 ### 최근 업로드
 #### 세이브 업로드
-- [민은월드 (2.5).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.5).sav)
+- [민은월드 (2.6).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.6).sav)
 
 #### 현 진행중
 - 새마을열차는 문산, 의정부, 청량리, 서울역기준으로 출발하게됨.
