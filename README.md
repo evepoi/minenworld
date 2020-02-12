@@ -6,7 +6,7 @@
 ## 1.29. 업로드 내용
 ### 최근 업로드
 #### 세이브 업로드
-- [민은월드 (2.6).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.6).sav)
+- [민은월드 (2.12).sav](https://github.com/evepoi/minenworld/blob/master/save/%EB%AF%BC%EC%9D%80%EC%9B%94%EB%93%9C%20(2.12).sav)
 
 #### 현 진행중
 - CDC 열차 도라산-광명, 백마고지-광명, 광주-목포, 인천-충주-김천-동대구, 신연무대-목포,광주,여수엑스포노선으로 변경운행
