@@ -10,6 +10,7 @@
 #header {}
 #nav {}
 #contents {}
+#con_top {width: 100%; max-width: 900px; margin: 30px auto;}
 #con_left {float: left; width: 50%; height: 770px;}
 #con_right {float: left; width: 50%; height: 770px;}
 #con_bot {clear: both; width: 100%; max-width: 900px; margin: 30px auto;}
