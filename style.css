@@ -20,7 +20,7 @@
 .container {width: 1200px; margin: 0 auto;}
 
 /* 헤더 */
-.header {height: 70px;}
+.header {height: 120px;}
 .header .header_tit {text-align: center; text-transform: uppercase; margin-top: 40px;}
 .header .header_tit h1 {font-size: 40px; color: #fff; background: #51b0dc; display: inline-block; padding: 5px 30px 5px 30px; letter-spacing: 2px; font-weight: 900; transition: box-shadow 0.25s ease-in-out;}
 .header .header_tit h1:hover {box-shadow: inset -18em 0 0 0 #257fac, inset 18em 0 0 0 #257fac;}
