@@ -30,7 +30,7 @@
 /* 전체메뉴 */
 .nav {overflow: hidden; padding: 25px 0;}
 .nav > div {text-align: center;}
-.nav > div li {float: left; width: 20%; margin: 1%;}
+.nav > div li {float: left; width: 23%; margin: 1%;}
 .nav > div li a {display: inline-block; transition: color 0.5s ease; font-size: 40px;}
 .nav > div li a:hover {color:#827717;}
 
